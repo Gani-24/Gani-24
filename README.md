@@ -1,4 +1,3 @@
-[![MasterHead](https://www.canva.com/design/DAFNUGiSdGk/EUkL1nxHbi3cSZyL1sgofQ/watch?utm_content=DAFNUGiSdGk&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://Gani-24.io)
 <h1 align="center">Hi 👋, I'm Sai Ganesh K</h1>
 <h3 align="center">I am an Undergraduate in B.tech at Amrita Vishwa Vidyapeetam,Amritapuri. I am interested in Developing, Coding and other Challenges😜.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/eb/3c/9a/eb3c9a4f88dbbb5f67cc3998e77aef48.gif">
