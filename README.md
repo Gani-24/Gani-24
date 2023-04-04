@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,C,Python,dotNET**
+- 🌱 I’m currently learning **Flutter,C,Python,dotNET,Django**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **Flutter projects,Django projects**
 
 - 🤝 I’m looking for help with **Advance uses with programming languages like C and python**
 
